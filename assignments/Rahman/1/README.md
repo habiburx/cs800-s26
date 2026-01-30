@@ -5,34 +5,30 @@ This is the implementation of `learnyouhtml`.
 
 ## Directory
 
-Directory extract cmd:
-``tree /A /F > "file_name.txt"``
+Rahman
+└── 1
+    ├── README.md
+    ├── html
+    │   ├── attributes.html
+    │   ├── blocks.html
+    │   ├── forms.html
+    │   ├── headings.html
+    │   ├── hello-world.html
+    │   ├── inline-tags.html
+    │   ├── links.html
+    │   ├── lists.html
+    │   ├── styles.html
+    │   ├── tables.html
+    │   └── tags.html
+    └── imgs
+        ├── done A1.png
+        └── learnyouhtml.png
 
-\---Rahman
-    |   directory_extract.txt
-    |   
-    \---1
-        |   README.md
-        |   
-        +---html
-        |       blocks.html
-        |       forms.html
-        |       headings.html
-        |       image.html
-        |       index.html
-        |       links.html
-        |       lists.html
-        |       tables.html
-        |       tags.html
-        |       
-        \---imgs
-                learnyouhtml-2of11.png
+## Before
+![Before](imgs/learnyouhtml.png)
 
-![Before](imgs/learnyouhtml-2of11.png)
-![After](imgs/done A1.png)
+## After
+![After](imgs/done%20A1.png)
 
 ## Completion Link
 YouTube: [https://youtu.be/G22rfYGr-4Q](https://youtu.be/G22rfYGr-4Q)
-
-## CMD used
-`ls - mkdir - cd`
