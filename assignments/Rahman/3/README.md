@@ -32,11 +32,6 @@ Rahman
 
 ### Papers Detail
 1. The Automation Advantage in AI Red Teaming \
-Rob Mulla, Ads Dawson, Vincent Abruzzon, Brian Greunke, Nick Landers, Brad Palm, Will Pearce \
-DOI: [https://doi.org/10.48550/arXiv.2504.19855](https://doi.org/10.48550/arXiv.2504.19855) \
-PDF: [Red Teaming](../3/pdfs/adv_ai_2504.19855v2.pdf) \
-![Red Teaming](../3/imgs/adv_ai.png)
-
 ```
 @article{mulla2025automation,
   title={The Automation Advantage in AI Red Teaming},
@@ -45,12 +40,12 @@ PDF: [Red Teaming](../3/pdfs/adv_ai_2504.19855v2.pdf) \
   year={2025}
 }
 ```
+DOI: [https://doi.org/10.48550/arXiv.2504.19855](https://doi.org/10.48550/arXiv.2504.19855) \
+PDF: [Red Teaming](../3/pdfs/adv_ai_2504.19855v2.pdf) \
+![Red Teaming](../3/imgs/adv_ai.png)
+
 
 2. Cybersecurity AI: Evaluating Agentic Cybersecurity in Attack/Defense CTFs \
-DOI: [https://doi.org/10.48550/arXiv.2510.17521](https://doi.org/10.48550/arXiv.2510.17521) \
-PDF: [CAI](../3/pdfs/cai_2510.17521v1.pdf) \
-![CAI](../3/imgs/cai.png)
-
 ```
 @article{balassone2025cybersecurity,
   title={Cybersecurity ai: Evaluating agentic cybersecurity in attack/defense ctfs},
@@ -59,12 +54,13 @@ PDF: [CAI](../3/pdfs/cai_2510.17521v1.pdf) \
   year={2025}
 }
 ```
+DOI: [https://doi.org/10.48550/arXiv.2510.17521](https://doi.org/10.48550/arXiv.2510.17521) \
+PDF: [CAI](../3/pdfs/cai_2510.17521v1.pdf) \
+![CAI](../3/imgs/cai.png)
+
+
 
 3. D-CIPHER: Dynamic Collaborative Intelligent Multi-Agent System with Planner and Heterogeneous Executors for Offensive Security \
-DOI: [https://doi.org/10.48550/arXiv.2502.10931](https://doi.org/10.48550/arXiv.2502.10931) \
-PDF: [D Cipher](../3/pdfs/D_cypher_2502.10931v2.pdf) \
-![D Cipher](../3/imgs/d_cipher.png)
-
 ```
 @article{udeshi2025d,
   title={D-cipher: Dynamic collaborative intelligent multi-agent system with planner and heterogeneous executors for offensive security},
@@ -73,12 +69,31 @@ PDF: [D Cipher](../3/pdfs/D_cypher_2502.10931v2.pdf) \
   year={2025}
 }
 ```
+DOI: [https://doi.org/10.48550/arXiv.2502.10931](https://doi.org/10.48550/arXiv.2502.10931) \
+PDF: [D Cipher](../3/pdfs/D_cypher_2502.10931v2.pdf) \
+![D Cipher](../3/imgs/d_cipher.png)
 
 4. PENTESTGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing \
+```
+@inproceedings {299699,
+author = {Gelei Deng and Yi Liu and V{\'\i}ctor Mayoral-Vilches and Peng Liu and Yuekang Li and Yuan Xu and Tianwei Zhang and Yang Liu and Martin Pinzger and Stefan Rass},
+title = {{PentestGPT}: Evaluating and Harnessing Large Language Models for Automated Penetration Testing},
+booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
+year = {2024},
+isbn = {978-1-939133-44-1},
+address = {Philadelphia, PA},
+pages = {847--864},
+url = {https://www.usenix.org/conference/usenixsecurity24/presentation/deng},
+publisher = {USENIX Association},
+month = aug
+}
+```
 DOI: [https://doi.org/10.48550/arXiv.2308.06782](https://doi.org/10.48550/arXiv.2308.06782) \
 PDF: [PentestGPT](../3/pdfs/p_gpt_2308.06782v2.pdf) \
 ![PentestGPT](../3/imgs/p_gpt.png)
 
+
+5. Cybersecurity AI: Hacking the AI Hackers via Prompt Injection \
 ```
 @inproceedings {299699,
 author = {Gelei Deng and Yi Liu and V{\'\i}ctor Mayoral-Vilches and Peng Liu and Yuekang Li and Yuan Xu and Tianwei Zhang and Yang Liu and Martin Pinzger and Stefan Rass},
@@ -93,27 +108,10 @@ publisher = {USENIX Association},
 month = aug
 }
 ```
-
-
-5. Cybersecurity AI: Hacking the AI Hackers via Prompt Injection \
 DOI: [https://doi.org/10.48550/arXiv.2508.21669](https://doi.org/10.48550/arXiv.2508.21669) \
 PDF: [Prompt Injection](../3/pdfs/p_inj_2508.21669v2.pdf) \
 ![Prompt Injection](../3/imgs/p_inj.png)
 
-```
-@inproceedings {299699,
-author = {Gelei Deng and Yi Liu and V{\'\i}ctor Mayoral-Vilches and Peng Liu and Yuekang Li and Yuan Xu and Tianwei Zhang and Yang Liu and Martin Pinzger and Stefan Rass},
-title = {{PentestGPT}: Evaluating and Harnessing Large Language Models for Automated Penetration Testing},
-booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
-year = {2024},
-isbn = {978-1-939133-44-1},
-address = {Philadelphia, PA},
-pages = {847--864},
-url = {https://www.usenix.org/conference/usenixsecurity24/presentation/deng},
-publisher = {USENIX Association},
-month = aug
-}
-```
 
 ### YouTube
 Walkthrough on the papers and assignment on YouTube Link: [https://www.youtube.com/watch?v=kDE4A_3yjk0](https://www.youtube.com/watch?v=kDE4A_3yjk0)
