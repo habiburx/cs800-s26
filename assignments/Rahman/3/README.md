@@ -1,7 +1,7 @@
 ### Assignment 3: Reading Papers
 CS 800 Research Methods, Spring 2026 \
 Submitted by: Md Habibur Rahman \
-Date: February 22, 2026 \
+Date: February 22, 2026 
 
 ### Description
 In this assignment I am going to read five different paper in my research area of AI security. For reading each paper I will use Keshav's first pass technique to identify the problem, approach and contribution. Additionally, I will include the paper references with DOIs and the marked-up PDFs.
